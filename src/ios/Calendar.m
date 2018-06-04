@@ -12,7 +12,7 @@
 #pragma mark Initialization functions
 
 - (void) pluginInitialize {
-    [self initEventStoreWithCalendarCapabilities];
+    //[self initEventStoreWithCalendarCapabilities];
 }
 
 - (void) initEventStoreWithCalendarCapabilities {
